@@ -19,7 +19,7 @@
 
 ## 🎓 Education  
 🎓 **MS in Computer Science (Research Track)**  
-University at Buffalo, SUNY | Aug, 2024 – May, 2026
+University at Buffalo, SUNY | Aug, 2024 – May, 2026  
 GPA: 3.92/4.00
 
 🎓 **BE in Computer Engineering (9.53/10.00)**  
