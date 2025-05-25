@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
+  <em>Machine Learning Engineer | AI Researcher | Full-Stack ML Developer | Data Scientist | Mobile App or Web Developent</em><br>
   <em>MS in Computer Science (Research Track) @ University at Buffalo • AI/ML Enthusiast</em><br>
-  <em>Actively seeking Summer '25 internship Machine Learning Engineer | AI Researcher | Full-Stack ML Developer | Data Scientist | Mobile App or Web Developent</em><br>
+  <em>Actively seeking Summer '25 internship and Full time roles starting May 2026</em><br>
 </p>
 
 <p>
