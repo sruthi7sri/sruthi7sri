@@ -33,7 +33,7 @@
 - 🧠 I’m deeply curious about artificial intelligence — especially LLMs, transformers, computer vision, and reinforcement learning. I’m continuously exploring the frontier of what ML can do when it’s made usable and accessible.
 - 📱 Whether it’s a medical diagnostic app, a smart booking system, or a multi-news summarizer, I aim to ship projects that are thoughtful, tested, and impactful. 
 - 🎧 I find peace in both city noise and quiet green spaces — always with a curated spotify playlist nearby  
-- 📄 **View My Resume:** [My Resume](https://drive.google.com/file/d/1rd6gA08YHpeRkcvb2wngKkeFDF3s_m9L/view?usp=sharing)
+- 📄 **View My Resume:** [📝  My Resume](https://drive.google.com/file/d/1rd6gA08YHpeRkcvb2wngKkeFDF3s_m9L/view?usp=sharing)
 
 ---
 
