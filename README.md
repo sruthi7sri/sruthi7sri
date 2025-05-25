@@ -8,7 +8,7 @@
   <em>Actively seeking Summer '25 internship Machine Learning Engineer | AI Researcher | Full-Stack ML Developer | Data Scientist | Mobile App or Web Developent</em><br>
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:sv94@buffalo.edu">
     <img src="https://img.shields.io/badge/Email-sv94@buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
