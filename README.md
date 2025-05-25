@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>MS in Computer Science (Research Track) @ University at Buffalo • AI/ML Enthusiast</em><br>
-  <em>Actively seeking Summer '25 internship in AI/ML, Data Science, or Software Engineering</em>
+  <em>Actively seeking Summer '25 internship Machine Learning Engineer | AI Researcher | Full-Stack ML Developer | Data Scientist | Mobile App or Web Developent</em><br>
 </p>
 
 <p align="center">
@@ -27,12 +27,13 @@
 
 ## 📝 About Me
 
-- 🌱 **Currently Exploring:** Computer Vision, Backend Development
-- 🛠️ **Building:** End-to-end AI/ML systems, mobile apps with React Native, and full-stack tools with CI/CD pipelines  
-- 💬 **Ask me about:** PyTorch, scikit-learn, PySpark, Streamlit, OCR, deep learning architectures  
-- 🌍 **Looking for:** Summer '25 internships in AI/ML, Data Science, or Software Engineering  
-- 🎧 **Fun Fact:** I find peace in both city noise and quiet green spaces — always with a curated playlist nearby  
-- 📄 **View My Resume:** [Resume (PDF)](https://drive.google.com/file/d/1rd6gA08YHpeRkcvb2wngKkeFDF3s_m9L/view?usp=sharing)
+- 💻 I'm a Computer Science graduate student (Research Track) at the University at Buffalo, passionate about building intelligent, real-world systems that merge data, design, and deployment.
+- 🛠️ My approach blends applied research with hands-on engineering — from crafting modular ML pipelines to deploying responsive mobile and web apps. I love transforming messy data into user-facing, scalable solutions.
+- 🚀 I enjoy building from scratch: preprocessing large datasets, fine-tuning models, setting up CI/CD pipelines, and creating seamless UIs using tools like Streamlit and React Native.
+- 🧠 I’m deeply curious about artificial intelligence — especially LLMs, transformers, computer vision, and reinforcement learning. I’m continuously exploring the frontier of what ML can do when it’s made usable and accessible.
+- 📱 Whether it’s a medical diagnostic app, a smart booking system, or a multi-news summarizer, I aim to ship projects that are thoughtful, tested, and impactful. 
+- 🎧 I find peace in both city noise and quiet green spaces — always with a curated spotify playlist nearby  
+- 📄 **View My Resume:** [My Resume](https://drive.google.com/file/d/1rd6gA08YHpeRkcvb2wngKkeFDF3s_m9L/view?usp=sharing)
 
 ---
 
@@ -51,7 +52,7 @@ GPA: 9.53/10.00
 
 **Jio Platforms Limited** – Graduate Engineer Trainee  
 *Dec 2023 – Jul 2024*  
-•	Developed data-pipeline workflows, reducing report latency by 20%.
+•	Developed data-pipeline workflows, reducing report latency by 20%.  
 •	Enhanced Tableau dashboards, boosting executive usage by 15%.
 
 
