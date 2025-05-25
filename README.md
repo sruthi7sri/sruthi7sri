@@ -155,9 +155,20 @@ GPA: 9.53/10.00
 ---
 
 ## 👋 Let's Connect  
-📧 [Email](mailto:sv94@buffalo.edu)  
-🔗 [LinkedIn](https://linkedin.com/in/sruthisri)  
-💻 [Portfolio](https://sruthi7sri.github.io)
+<p align="center">
+  <a href="mailto:sv94@buffalo.edu">
+    <img src="https://img.shields.io/badge/Email-sv94@buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sruthi7sri">
+    <img src="https://img.shields.io/badge/GitHub-sruthi7sri-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sruthisri">
+    <img src="https://img.shields.io/badge/LinkedIn-Sruthisri%20Venkateswaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sruthi7sri.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Click_Here-FF4081?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 > *“I build intelligent systems that are usable, deployable, and rooted in real-world impact.”*
 
