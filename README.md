@@ -155,7 +155,7 @@ GPA: 9.53/10.00
 ---
 
 ## 👋 Let's Connect  
-<p align="center">
+<p>
   <a href="mailto:sv94@buffalo.edu">
     <img src="https://img.shields.io/badge/Email-sv94@buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a><br>
