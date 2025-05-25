@@ -1,19 +1,38 @@
-# Hi there, I'm Sruthisri Venkateswaran 👋  
-🎓 MS in Computer Science (Research Track) @ University at Buffalo  
-💡 AI/ML Engineer | Researcher | Real-World Problem Solver  
-🚀 Actively seeking Summer 2025 internships in AI/ML, Data Science, or Software Engineering  
+<h1 align="center">
+  Hi there, I'm Sruthisri Venkateswaran 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-[Email](mailto:sv94@buffalo.edu) • [GitHub](https://github.com/sruthi7sri) • [LinkedIn](https://linkedin.com/in/sruthisri) • [Portfolio](https://sruthi7sri.github.io)
+<p align="center">
+  <em>MS in Computer Science (Research Track) @ University at Buffalo • AI/ML Enthusiast</em><br>
+  <em>Actively seeking Summer '25 internship in AI/ML, Data Science, or Software Engineering</em>
+</p>
+
+<p align="center">
+  <a href="mailto:sv94@buffalo.edu">
+    <img src="https://img.shields.io/badge/Email-sv94@buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sruthi7sri">
+    <img src="https://img.shields.io/badge/GitHub-sruthi7sri-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sruthisri">
+    <img src="https://img.shields.io/badge/LinkedIn-Sruthisri%20Venkateswaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sruthi7sri.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Click_Here-FF4081?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ✨ About Me  
-🌱 Currently Exploring: Computer Vision, Backend Development
-🔭 Building: AI/ML systems, mobile apps, and full-stack web apps with seamless deployment pipelines
-💬 Ask me about: PyTorch, scikit-learn, PySpark, OCR, Deep Learning Architectures, and end-to-end model integration
-🌐 Looking for: Research-focused or production-ready internships in AI/ML, Data Science, Web or App Development
-🎧 Fun Fact: I find peace both in city noise and quiet green spaces — with a curated Spotify playlist always nearby 🎶
+## 📝 About Me
 
+- 🌱 **Currently Exploring:** Computer Vision, Backend Development
+- 🛠️ **Building:** End-to-end AI/ML systems, mobile apps with React Native, and full-stack tools with CI/CD pipelines  
+- 💬 **Ask me about:** PyTorch, scikit-learn, PySpark, Streamlit, OCR, deep learning architectures  
+- 🌍 **Looking for:** Summer '25 internships in AI/ML, Data Science, or Software Engineering  
+- 🎧 **Fun Fact:** I find peace in both city noise and quiet green spaces — always with a curated playlist nearby  
+- 📄 **View My Resume:** [Resume (PDF)](https://drive.google.com/file/d/1rd6gA08YHpeRkcvb2wngKkeFDF3s_m9L/view?usp=sharing)
 
 ---
 
