@@ -158,10 +158,10 @@ GPA: 9.53/10.00
 <p align="center">
   <a href="mailto:sv94@buffalo.edu">
     <img src="https://img.shields.io/badge/Email-sv94@buffalo.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a><br>
   <a href="https://linkedin.com/in/sruthisri">
     <img src="https://img.shields.io/badge/LinkedIn-Sruthisri%20Venkateswaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a><br>
   <a href="https://sruthi7sri.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Click_Here-FF4081?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
