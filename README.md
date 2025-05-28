@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sruthisri%20Venkateswaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sruthi7sri.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Click_Here-FF4081?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-https://sruthi7sri.github.io/-FF4081?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
