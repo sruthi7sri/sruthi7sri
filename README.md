@@ -8,13 +8,13 @@
 
 <p align="center">
   <em>
-    Machine Learning Engineer • Applied AI / Computer Vision • Full-Stack ML Developer
+    Machine Learning Engineer • Applied AI • Full-Stack ML Developer • Data Engineer
   </em><br>
   <em>
-    MS in Computer Science (Research Track) @ University at Buffalo (GPA: 3.92)
+    MS in Computer Science (Research Track) @ University at Buffalo (GPA: 3.92/4.00)
   </em><br>
   <em>
-    Seeking Summer 2025 Internships & Full-Time Roles (May 2026)
+    Actively Seeking Full-Time Roles (May 2026)
   </em>
 </p>
 
@@ -40,9 +40,7 @@ My work spans the **entire ML lifecycle** — data ingestion, feature engineerin
 
 I’m especially interested in **Applied ML, Computer Vision, NLP, LLM systems, and ML-backed software products**.
 
-📄 **Resume:**  
-👉 https://drive.google.com/file/d/1DxUPSlwh8fqwa448u3cfiNOQs8hVUlTd/view
-
+📄 **Resume:** [📝  My Resume](https://drive.google.com/file/d/1DxUPSlwh8fqwa448u3cfiNOQs8hVUlTd/view?usp=drive_link)
 ---
 
 ## 🎓 Education
@@ -59,7 +57,7 @@ GPA: **3.81 / 4.0**
 
 ## 💼 Experience
 
-### **Research Assistant — University at Buffalo**
+### **Research Assistant (MyVictor) — University at Buffalo**
 *Nov 2025 – Present*  
 - Built end-to-end **data ingestion pipelines** for an LLM-powered academic assistant.
 - Converted 15+ years of unstructured PDFs and policy pages into **RAG-ready datasets**.
@@ -71,7 +69,7 @@ GPA: **3.81 / 4.0**
 - Trained YOLO-based models on **10K+ images**, reducing latency by 20%.
 - Built GPU-accelerated pipelines supporting **60 FPS video analytics**.
 
-### **Software Developer Student Assistant — Dept. of Civil Engineering, UB**
+### **Software Developer Student Assistant — Dept. of Civil Engineering, University at Buffalo**
 *Jul 2025 – Sep 2025*  
 - Refactored legacy MATLAB systems into scalable Python, improving runtime by **30–35%**.
 - Built cross-platform **CLI & GUI tools**, cutting setup time by **50%**.
@@ -93,20 +91,63 @@ GPA: **3.81 / 4.0**
 
 ## 🚀 Featured Projects
 
-- **Explainable AI Trading Copilot (Serverless ML on AWS)**  
-  XGBoost + SHAP + Amazon Bedrock with Lambda, DynamoDB, API Gateway.
+### 🔗 [Explainable AI Trading Copilot](https://github.com/sruthi7sri/Explainable-AI-Trading-Copilot)
+Serverless ML system for stock trend prediction with SHAP-based explainability and event-driven pipelines on AWS.
 
-- **Vehicle Counting in Parking Lots (Computer Vision)**  
-  VGG16-based pipeline with **95.76% accuracy**, deployed via Flask & Streamlit.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=flat-square)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-- **Nutrition Analyzer (NLP + OCR)**  
-  DistilBERT + T5 + PyTesseract system classifying food health labels.
+---
 
-- **Multi-Modal Deep Learning Toolkit**  
-  Autoencoders, ViTs, BART summarization deployed via Hugging Face & Streamlit.
+### 🔗 [Nutrition Analyzer](https://github.com/sruthi7sri/nutrition-analyzer)
+AI-powered nutrition label analysis using OCR and NLP to classify food healthiness and generate summaries.
 
-- **Meteorite Impact Analysis System (MIAS)**  
-  PostgreSQL + advanced SQL analytics + ETL pipelines.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-412991?style=flat-square)
+![T5](https://img.shields.io/badge/T5-FF6F00?style=flat-square)
+![PyTesseract](https://img.shields.io/badge/PyTesseract-000000?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-5C2D91?style=flat-square)
+
+---
+
+### 🔗 [Vehicle Counting in Parking Lots](https://github.com/sruthi7sri/Vehicle-Counting-in-Parking-Lot)
+Real-time computer vision system for parking occupancy detection achieving ~95% accuracy.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🔗 [Meteorite Impact Analysis System (MIAS)](https://github.com/sruthi7sri/Meteorite-Impact-Analysis-System-MIAS)
+End-to-end data modeling, ETL, and analytics system built using relational databases and advanced SQL queries.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+### 🔗 [Job Tracker – Smart Application Management Platform](https://github.com/sruthi7sri/Job-Tracker-Smart-Application-Management-System)
+Full-stack data-driven application automating job tracking, analytics, and visualization across 1K+ records.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4EAA25?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+---
+
+➡️ **For more projects, experiments, and coursework, feel free to explore my GitHub repositories.**
 
 ---
 
@@ -163,8 +204,14 @@ GPA: **3.81 / 4.0**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sruthi7sri&show_icons=true&rank_icon=github&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthi7sri&layout=compact&langs_count=8&hide_border=true" width="49%" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sruthi7sri&show_icons=true&hide_border=true&rank_icon=github"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sruthi7sri&layout=compact&langs_count=8&hide_border=true"
+    width="49%"
+  />
 </p>
 
 ---
