@@ -40,7 +40,7 @@ My work spans the **entire ML lifecycle** — data ingestion, feature engineerin
 
 I’m especially interested in **Applied ML, Computer Vision, NLP, LLM systems, and ML-backed software products**.
 
-📄 [**Resume:**](https://drive.google.com/file/d/1DxUPSlwh8fqwa448u3cfiNOQs8hVUlTd/view?usp=drive_link)
+📄 [**Resume**](https://drive.google.com/file/d/1DxUPSlwh8fqwa448u3cfiNOQs8hVUlTd/view?usp=drive_link)
 ---
 
 ## 🎓 Education
