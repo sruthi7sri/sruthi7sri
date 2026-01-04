@@ -201,10 +201,11 @@ Full-stack data-driven application automating job tracking, analytics, and visua
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Activity
 
-![Sruthisri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sruthi7sri&show_icons=true&hide_border=true&cache_seconds=86400)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthi7sri&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sruthi7sri&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
