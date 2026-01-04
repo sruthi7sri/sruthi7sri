@@ -201,19 +201,10 @@ Full-stack data-driven application automating job tracking, analytics, and visua
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sruthi7sri&show_icons=true&hide_border=true&rank_icon=github"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sruthi7sri&layout=compact&langs_count=8&hide_border=true"
-    width="49%"
-  />
-</p>
-
+![Sruthisri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sruthi7sri&show_icons=true&hide_border=true&cache_seconds=86400)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthi7sri&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400)
 
 ---
 
