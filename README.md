@@ -36,7 +36,7 @@
 
 I’m a **Computer Science Master’s student (Research Track)** at the University at Buffalo with hands-on experience building **production-ready ML systems, computer vision pipelines, and full-stack AI applications** across research, enterprise, and startup environments.
 
-My work spans the **entire ML lifecycle** — data ingestion, feature engineering, model training, explainability, deployment, and monitoring — with a strong focus on **scalability, interpretability, and real-world usability**. I’ve built systems achieving **85–95%+ accuracy**, reduced runtime by **30–50%**, and shipped tools used by **researchers, executives, and end users**.
+My work spans the **entire ML lifecycle**, data ingestion, feature engineering, model training, explainability, deployment, and monitoring, with a strong focus on **scalability, interpretability, and real-world usability**. I’ve built systems achieving **85–95%+ accuracy**, reduced runtime by **30–50%**, and shipped tools used by **researchers, executives, and end users**.
 
 I’m especially interested in **Applied ML, Computer Vision, NLP, LLM systems, and ML-backed software products**.
 
