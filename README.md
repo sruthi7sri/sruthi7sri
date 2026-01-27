@@ -151,11 +151,11 @@ GPA: **3.81 / 4.0**
 ---
 
 ### 🔗 [AutoRAG Studio](Private Repo - WIP)
-- Designed a **multi-tenant RAG-as-a-Service platform** enabling no-code creation of domain-specific AI agents.
-- Implemented isolated vector indexes, API keys, and agent-level governance to ensure strict data isolation.
-- Built modular pipelines for document ingestion, intelligent chunking, embeddings, retrieval, and response synthesis.
-- Architected a **control-plane / execution-plane** system using Django (governance) and FastAPI (high-performance inference).
-- Focused on production readiness: observability, access control, audit-friendly logging, and extensibility.
+- Designing a **multi-tenant RAG-as-a-Service platform** that enables no-code creation of domain-specific AI agents.
+- Implementing **isolated vector indexes, API keys, and agent-level governance** to ensure strict data isolation.
+- Building **modular pipelines** for document ingestion, intelligent chunking, embedding generation, retrieval, and response synthesis.
+- Architecting a **control-plane / execution-plane system** using Django for governance and FastAPI for high-performance inference.
+- Focusing on **production readiness**, including observability, access control, audit-friendly logging, and long-term extensibility.
 
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
 ![LLM Systems](https://img.shields.io/badge/LLM_Systems-412991?style=flat-square&logo=openai&logoColor=white)
