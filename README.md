@@ -150,7 +150,7 @@ GPA: **3.81 / 4.0**
 
 ---
 
-### 🔗 **[AutoRAG Studio](Private Repo - WIP)
+### 🔗 [AutoRAG Studio](Private Repo - WIP)
 - Designed a **multi-tenant RAG-as-a-Service platform** enabling no-code creation of domain-specific AI agents.
 - Implemented isolated vector indexes, API keys, and agent-level governance to ensure strict data isolation.
 - Built modular pipelines for document ingestion, intelligent chunking, embeddings, retrieval, and response synthesis.
