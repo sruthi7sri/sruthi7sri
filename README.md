@@ -70,7 +70,7 @@ GPA: **3.81 / 4.0**
 ---
 
 ### **Research Assistant — MyVictor**  
-**University at Buffalo, SUNY** · *Nov 2025 – Present*
+**University at Buffalo, SUNY** · *Nov 2025 – May 2026*
 
 - Built an **end-to-end data ingestion pipeline** for an LLM-powered academic assistant, transforming unstructured university web pages and policy PDFs into **structured, query-ready datasets**.
 - Automated large-scale scraping of **15+ years of academic catalogs, handbooks, and policy documents**, converting them into clean Markdown optimized for downstream LLM processing.
