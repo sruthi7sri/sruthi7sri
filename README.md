@@ -58,6 +58,17 @@ GPA: **3.81 / 4.0**
 
 ## 💼 Experience
 
+### **AI Developer — Saije (UgenticAI)**  
+**UgenticAI, Inc. · Rockville, Maryland** · *Jul 2026 – Present*
+
+- Building **Saije**, an AI assistant spanning voice, Slack, and business workflow integrations.
+- Engineering **inbound/outbound voice agents** and telephony workflows with **Twilio** and **ElevenLabs**, including callbacks, voicemail, and answering-machine handling.
+- Developing **two-way SMS and automated follow-up workflows**, with consent, opt-out, and calling-hours safeguards.
+- Integrating **LLMs, external tools, and Model Context Protocol (MCP)** to enable action-taking assistants and context-aware interactions.
+- Working with **Supabase-backed workflows** and event-driven orchestration to support reliable assistant experiences.
+
+---
+
 ### **Research Assistant — MyVictor**  
 **University at Buffalo, SUNY** · *Nov 2025 – Present*
 
@@ -131,6 +142,18 @@ GPA: **3.81 / 4.0**
 ---
 
 ## 🚀 Featured Projects
+
+### 🔗 [MyVictor — AI-Powered CSE Advising Assistant](https://github.com/sruthi7sri/MyVictor)
+- Developed document ingestion and preprocessing pipelines for university advising content using **Playwright, Python, Markdown, and JSONL**.
+- Contributed to **GraphRAG and hybrid retrieval** using **Neo4j**, **Qdrant**, and **BM25**, with structured graph queries and LLM fallback.
+- Supported evaluation and grounding across a knowledge base of approximately **585 documents, 2,168 chunks, 2,487 entities, and 2,906 facts**.
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-0F766E?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+---
 
 ### 🔗 [Explainable AI Trading Copilot](https://github.com/sruthi7sri/Explainable-AI-Trading-Copilot)
 - Built a **fully serverless ML system** for daily stock trend prediction using real-time market data and global news sentiment.
@@ -289,7 +312,13 @@ GPA: **3.81 / 4.0**
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sruthi7sri&theme=github-compact&hide_border=true" />
+  <a href="https://github.com/sruthi7sri?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sruthi7sri&theme=github" alt="GitHub contribution activity for sruthi7sri" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sruthi7sri?tab=overview">View my live GitHub contributions and activity →</a>
 </p>
 
 ---
